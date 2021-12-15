@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Mungunchimeg;Uyanga;;;
+FN: Uyanga  Mungunchimeg 
+ORG:Job Corps;
+TITLE:Outreach and Admissions Counselor\nOA Team, OA/CTS Department
+EMAIL;type=INTERNET;type=WORK;type=pref:mungunchimeg.uyanga@jobcorps.org
+TEL;type=WORK;type=VOICE:202-868-2359
+item1.ADR;type=WORK;type=pref:;;1 DC Village Lane SW\nWashington DC;;;20032;
+item1.X-ABADR:sg
+item2.URL;type=pref:https://www.jobcorps.gov/recruiting/enrollment-interest
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
